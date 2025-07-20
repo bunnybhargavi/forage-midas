@@ -1,0 +1,3 @@
+[submodule "forage-midas-complete"]
+	path = forage-midas-complete
+	url = https://github.com/bunnybhargavi/forage-midas-complete.git
